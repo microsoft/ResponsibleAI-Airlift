@@ -36,18 +36,18 @@ This repository contains content of a two-part workshop for using machine learni
     * Click **Get started**!
     * In the welcome screen click on **Take a quick tour** button to familiarize yourself with Azure ML studio.
 
-3. Create Azure Machine Learning Notebook VM
+3. Create a VM for running the notebooks
 
     * Click on **Compute** tab on the left navigation bar.
-    * In the Notebook VM section, click **New**.
-    * Enter Notebook VM name of your choice and click **Create**. Creation should take approximately 5 minutes.
+    * In the "Compute Instances" section, click **New**.
+    * Enter VM name of your choice and click **Create**. Creation should take approximately 5 minutes.
 
-4. Clone this repository to Notebook VM in your Azure ML workspace
+4. Clone example repository to the VM in your Azure ML workspace
 
-    * Once Notebook VM is created and in Running state, click on the **Jupyter** link. This will open Jupyter web UI in new browser tab.
-    * In Jupyter UI click **New > Terminal**.
+    * Once the VM is created and in Running state, click on the **JupyterLab** link. This will open the Jupyter web UI in new browser tab.
+    * In the JupyterLab Launch click **Terminal** in the "Other" section.
     * In terminal window, type and execute command: `ls`
-    * Notice the name of your user folder and use that name to execute next command: `cd <userfolder>`
+    * Notice the name of your user folder and use that name to execute next command: `cd <userfolder>` (you may need to `cd Users` first)
     * Clone the repository of this workshop by executing following command: `git clone https://github.com/microsoft/responsibleai-airlift.git`
 
 5. Open Part 1 of the workshop
