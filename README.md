@@ -21,17 +21,17 @@ This repository contains content of a two-part workshop for using machine learni
 
 1. Provision your personal Lab environment
 
-    * Open **Registration URL**: http://bit.ly/2OjknZW
-    * Enter **Activation Code** which should be provided by the instructors of the workshop.
-    * Fill out registration form and Submit it.
+    * Open the **Registration URL**: http://bit.ly/2OjknZW
+    * Enter the **Activation Code** which should be provided by the instructors of the workshop.
+    * Fill out the registration form and Submit it.
     * On the next screen click **Launch Lab**.
-    * Wait until your personal environment is provisioned. It should take approximatly 3-5 minutes.
+    * Wait until your personal environment is provisioned. It should take approximately 3-5 minutes.
 
 2. Login to Azure ML studio
 
-    * Once the workshop enviroment is ready, you can open new browser tab and navigate to Azure ML studio, using it's direct URL: [https://ml.azure.com](https://ml.azure.com). We recommend to use Private Browser window for the login to avoid conflicting credentials if you already have Azure subscription.
-    * Use credentials provided in the workshop environment to sign-in to Azure ML studio.
-    * In the Welcome screen select preprovisioned subcription and workspace similar to screenshot below:
+    * Once the workshop enviroment is ready, you can open new browser tab and navigate to Azure ML studio, using its direct URL: [https://ml.azure.com](https://ml.azure.com). We recommend using a Private Browser window for the login, to avoid conflicting credentials if you already have an Azure subscription.
+    * Use the credentials provided in the workshop environment to sign-in to Azure ML studio.
+    * In the Welcome screen select the preprovisioned subcription and workspace similar to screenshot below:
     ![](images/studio-sign-in.png)
     * Click **Get started**!
     * In the welcome screen click on **Take a quick tour** button to familiarize yourself with Azure ML studio.
