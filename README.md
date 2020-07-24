@@ -21,7 +21,7 @@ This repository contains content of a two-part workshop for using machine learni
 
 1. Provision your personal Lab environment
 
-    * Open the **Registration URL**: http://bit.ly/2OjknZW
+    * Open the **Registration URL**: https://bit.ly/2OreKYy
     * Enter the **Activation Code** which should be provided by the instructors of the workshop.
     * Fill out the registration form and Submit it.
     * On the next screen click **Launch Lab**.
