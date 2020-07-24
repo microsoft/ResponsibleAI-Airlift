@@ -9,12 +9,13 @@ Taxonomies for products and languages: https://review.docs.microsoft.com/new-hop
 -->
 
 ## Overview 
-This repository contains content of a two-part workshop for using machine learning interpretability and fairness assessment (unfairness mitigation) to build fairer and more transparent models. The different components of the workshop are as follows:
+This repository contains content of a two-part workshop for using machine learning interpretability and fairness assessment (+ unfairness mitigation) to build fairer and more transparent models. The different components of the workshop are as follows:
 
-- Part 1: [Interpretability with Explainable Boosting Machines (EBM)](https://github.com/microsoft/ResponsibleAI-Airlift-July2020)
-- Part 2: [Explaining Blackbox Models with SHAP](https://github.com/microsoft/ResponsibleAI-Airlift-July2020)
-- Part 3: [Fairness Assessment and Unfairness Mitigation with Fairlearn (Bonus: + Interpretability)](https://github.com/microsoft/ResponsibleAI-Airlift-July2020)
 
+- Part 1: [Interpretability with glassbox models (EBM)](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Interpret/EBM/Interpretable%20Classification%20Methods.ipynb)
+- Part 2: [Explain blackbox models with SHAP (and upload explanations to Azure Machine Learning)](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Interpret/SHAP/explain-model-SHAP.ipynb)
+- Part 3: [Run Interpretability on Azure Machine Learning](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Interpret/SHAP/explain-model-Azure.ipynb) (HERE)
+- Part 4: [Model fairness assessment and unfairness mitigation](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Fairness/AI-fairness-Census.ipynb)
 
 ## Getting started with the workshop environment
 
@@ -47,25 +48,11 @@ This repository contains content of a two-part workshop for using machine learni
     * In Jupyter UI click **New > Terminal**.
     * In terminal window, type and execute command: `ls`
     * Notice the name of your user folder and use that name to execute next command: `cd <userfolder>`
-    * Clone the repository of this workshop by executing following command: `git clone https://github.com/microsoft/responsibleai-airlift-july2020.git`
+    * Clone the repository of this workshop by executing following command: `git clone https://github.com/microsoft/responsibleai-airlift.git`
 
 5. Open Part 1 of the workshop
 
     * Go back to the Jupyter window.
-    * Open `EBM.ipynb` notebook.
+    * Open [Interpretability with glassbox models (EBM)](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Interpret/EBM/Interpretable%20Classification%20Methods.ipynb) notebook.
 
 You are ready to start your workshop! Have fun.
-
-# Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
