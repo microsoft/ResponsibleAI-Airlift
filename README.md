@@ -14,7 +14,7 @@ This repository contains content of a two-part workshop for using machine learni
 
 - Part 1: [Interpretability with glassbox models (EBM)](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Interpret/EBM/Interpretable%20Classification%20Methods.ipynb)
 - Part 2: [Explain blackbox models with SHAP (and upload explanations to Azure Machine Learning)](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Interpret/SHAP/explain-model-SHAP.ipynb)
-- Part 3: [Run Interpretability on Azure Machine Learning](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Interpret/SHAP/explain-model-Azure.ipynb) (HERE)
+- Part 3: [Run Interpretability on Azure Machine Learning](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Interpret/SHAP/explain-model-Azure.ipynb) 
 - Part 4: [Model fairness assessment and unfairness mitigation](https://github.com/microsoft/ResponsibleAI-Airlift/blob/main/Fairness/AI-fairness-Census.ipynb)
 
 ## Getting started with the workshop environment
